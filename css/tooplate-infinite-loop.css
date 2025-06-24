@@ -265,6 +265,16 @@ blockquote {
 	padding: 20px 0 30px 0;
 }
 
+/* Vaiation */
+#variation {
+  color: black;
+  background-image: url(../img/variation-bg.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  position: relative;
+}
+
 /* Testimonials */
 #testimonials {
   color: white;
